@@ -1,0 +1,35 @@
+	<div class="modal fade" id="myModalEdit" tabindex="-1" role="dialog" aria-labelledby="myModalLabelEdit" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<h4 class="modal-title" id="myModalLabelEdit">修改任务</h4>
+				</div>
+				<form class="inline-form" id="theformEdit" action="__ROOT__/Home/OrderItemRemark/updateRemark" method="post">
+					<div class="modal-body">
+							<input type="hidden" name="uid" id="uid_edit" />
+							<div class="form-group" style="margin:0; margin-bottom:10px">
+								<label for="remark" class="control-label">任务内容</label>
+								<textarea class="form-control" name="remark"
+									id="remarkEdit" rows="5" required></textarea>
+							</div>
+							<div class="form-group">
+								<select class="form-control" required style="width: 200px"
+									name="assignee" id="assigneeEdit">
+									<option value="">请选择负责人</option>
+									<volist name="userList" id="vo">
+									<option value="{$key}">{$vo}</option>
+									</volist>
+								</select>
+							</div>						
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+						<button type="submit" class="btn btn-info">确定</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>

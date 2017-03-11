@@ -1,0 +1,915 @@
+[ 2017-02-24T16:56:10+08:00 ] ::1 /armoire/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011441s ]
+
+[ 2017-02-24T16:56:11+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.128094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128260s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006778s ]
+
+[ 2017-02-24T16:56:11+08:00 ] ::1 /armoire/Home/Common/genverify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2017-02-24T16:56:11+08:00 ] ::1 /armoire/Home/Common/genverify?F=0.3453223059291737
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000877s ]
+
+[ 2017-02-24T16:56:20+08:00 ] ::1 /armoire/Home/Common/genverify?F=0.3453223059291737
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001635s ]
+
+[ 2017-02-24T16:56:28+08:00 ] ::1 /armoire/Home/Common/genverify?F=0.3453223059291737
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000832s ]
+
+[ 2017-02-24T16:56:29+08:00 ] ::1 /armoire/Home/Common/genverify?F=0.3453223059291737
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-02-24T16:59:44+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022384s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-02-24T17:00:31+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000212s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007291s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-02-24T17:00:32+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005178s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-02-24T17:00:32+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006058s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-02-24T17:00:32+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004965s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005059s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-02-24T17:00:42+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2017-02-24T17:00:42+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006257s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-02-24T17:01:12+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022517s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-02-24T17:01:14+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005217s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005332s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-02-24T17:01:16+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-02-24T17:01:50+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022356s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022460s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-02-24T17:01:50+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-02-24T17:01:50+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005065s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-02-24T17:01:51+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005269s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005364s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-02-24T17:01:51+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005824s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005926s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-02-24T17:03:02+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022853s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-02-24T17:03:18+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024178s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-02-24T17:03:50+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006190s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-02-24T17:03:52+08:00 ] ::1 /armoire/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+ERR: 参数错误或者未定义:code
+
+[ 2017-02-24T17:04:00+08:00 ] ::1 /armoire/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+SQL: SHOW COLUMNS FROM `armoire_user` [ RunTime:0.0223s ]
+SQL: SELECT * FROM `armoire_user` WHERE ( user_name='admin' and user_password='e99a18c428cb38d5f260853678922e03' ) LIMIT 1   [ RunTime:0.0025s ]
+SQL: UPDATE `armoire_user` SET `uid`='1',`user_name`='admin',`user_password`='e99a18c428cb38d5f260853678922e03',`create_time`='2016-10-28 21:45:57',`last_logon_time`='2017-02-24 17:04:00',`user_group`='1',`display_name`='管理员',`update_time`='2016-10-29 22:38:36' WHERE ( user_name='admin' and user_password='e99a18c428cb38d5f260853678922e03' ) [ RunTime:0.0046s ]
+
+[ 2017-02-24T17:04:00+08:00 ] ::1 /armoire/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item_remark` [ RunTime:0.0126s ]
+SQL: SELECT oir.order_uid,oir.item_uid,o.order_no,oi.item_no FROM armoire_order_item_remark as oir INNER JOIN armoire_order_item as oi on oi.uid=oir.item_uid INNER JOIN armoire_order as o on o.uid=oir.order_uid  WHERE ( assignee=1 and oir.status='未完成' ) ORDER BY order_no, item_no  [ RunTime:0.0119s ]
+SQL: SELECT oir.order_uid,oir.item_uid,o.order_no,oi.item_no FROM armoire_order_item_remark as oir INNER JOIN armoire_order_item as oi on oi.uid=oir.item_uid INNER JOIN armoire_order as o on o.uid=oir.order_uid  WHERE ( assignee=1 and oir.status='已完成' and date_sub(curdate(), INTERVAL 60 DAY) <= date(o.create_time) ) ORDER BY order_no, item_no  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `armoire_order` [ RunTime:0.0082s ]
+SQL: SELECT o.uid,o.order_no FROM armoire_order as o WHERE ( date_sub(curdate(), INTERVAL 1 MONTH) <= date(`create_time`) ) ORDER BY order_no  [ RunTime:0.0002s ]
+SQL: SELECT o.uid,o.order_no FROM armoire_order as o WHERE ( date_sub(curdate(), INTERVAL 2 MONTH) <= date(`create_time`) and date_sub(curdate(), INTERVAL 1 MONTH) > date(`create_time`) ) ORDER BY order_no  [ RunTime:0.0001s ]
+SQL: SELECT o.uid,o.order_no FROM armoire_order as o WHERE ( date_sub(curdate(), INTERVAL 3 MONTH) <= date(`create_time`) and date_sub(curdate(), INTERVAL 2 MONTH) > date(`create_time`) ) ORDER BY order_no  [ RunTime:0.0001s ]
+SQL: SELECT o.uid,o.order_no FROM armoire_order as o WHERE ( date_sub(curdate(), INTERVAL 6 MONTH) <= date(`create_time`) and date_sub(curdate(), INTERVAL 3 MONTH) > date(`create_time`) ) ORDER BY order_no  [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item` [ RunTime:0.0068s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=4 ) ORDER BY item_no  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: secondLvl C:\wamp\www\armoire\Application\Home\Controller\OrderItemController.class.php 第 26 行.
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=2 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=10 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=9 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=7 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=6 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=11 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=12 ) ORDER BY item_no  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017843s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-02-24T17:04:01+08:00 ] ::1 /armoire/Home/OrderItem/viewOrderItem/order_uid/2/item_uid/5/fromTask/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+SQL: SHOW COLUMNS FROM `armoire_order` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `armoire_order` WHERE ( uid=2 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item` [ RunTime:0.0064s ]
+SQL: SELECT oi.*,o.order_no FROM armoire_order_item as oi INNER JOIN armoire_order as o on o.uid=oi.order_uid  WHERE ( order_uid=2 and oi.uid=5 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item_remark` [ RunTime:0.0064s ]
+SQL: SELECT oir.*,u.display_name as user_name FROM armoire_order_item_remark as oir INNER JOIN armoire_user as u on u.uid=oir.assignee  WHERE ( order_uid=2 and item_uid=5 )  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `armoire_user` [ RunTime:0.0059s ]
+SQL: SELECT `uid`,`display_name` FROM `armoire_user` ORDER BY display_name  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.145615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.145735s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-02-24T20:02:31+08:00 ] ::1 /armoire/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011835s ]
+
+[ 2017-02-24T20:02:32+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120223s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.120353s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006234s ]
+
+[ 2017-02-24T20:02:33+08:00 ] ::1 /armoire/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: SHOW COLUMNS FROM `armoire_user` [ RunTime:0.0193s ]
+SQL: SELECT * FROM `armoire_user` WHERE ( user_name='admin' and user_password='e99a18c428cb38d5f260853678922e03' ) LIMIT 1   [ RunTime:0.0022s ]
+SQL: UPDATE `armoire_user` SET `uid`='1',`user_name`='admin',`user_password`='e99a18c428cb38d5f260853678922e03',`create_time`='2016-10-28 21:45:57',`last_logon_time`='2017-02-24 20:02:33',`user_group`='1',`display_name`='管理员',`update_time`='2016-10-29 22:38:36' WHERE ( user_name='admin' and user_password='e99a18c428cb38d5f260853678922e03' ) [ RunTime:0.0040s ]
+
+[ 2017-02-24T20:02:33+08:00 ] ::1 /armoire/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item_remark` [ RunTime:0.0118s ]
+SQL: SELECT oir.order_uid,oir.item_uid,o.order_no,oi.item_no FROM armoire_order_item_remark as oir INNER JOIN armoire_order_item as oi on oi.uid=oir.item_uid INNER JOIN armoire_order as o on o.uid=oir.order_uid  WHERE ( assignee=1 and oir.status='未完成' ) ORDER BY order_no, item_no  [ RunTime:0.0111s ]
+SQL: SELECT oir.order_uid,oir.item_uid,o.order_no,oi.item_no FROM armoire_order_item_remark as oir INNER JOIN armoire_order_item as oi on oi.uid=oir.item_uid INNER JOIN armoire_order as o on o.uid=oir.order_uid  WHERE ( assignee=1 and oir.status='已完成' and date_sub(curdate(), INTERVAL 60 DAY) <= date(o.create_time) ) ORDER BY order_no, item_no  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `armoire_order` [ RunTime:0.0070s ]
+SQL: SELECT o.uid,o.order_no FROM armoire_order as o WHERE ( date_sub(curdate(), INTERVAL 1 MONTH) <= date(`create_time`) ) ORDER BY order_no  [ RunTime:0.0002s ]
+SQL: SELECT o.uid,o.order_no FROM armoire_order as o WHERE ( date_sub(curdate(), INTERVAL 2 MONTH) <= date(`create_time`) and date_sub(curdate(), INTERVAL 1 MONTH) > date(`create_time`) ) ORDER BY order_no  [ RunTime:0.0001s ]
+SQL: SELECT o.uid,o.order_no FROM armoire_order as o WHERE ( date_sub(curdate(), INTERVAL 3 MONTH) <= date(`create_time`) and date_sub(curdate(), INTERVAL 2 MONTH) > date(`create_time`) ) ORDER BY order_no  [ RunTime:0.0001s ]
+SQL: SELECT o.uid,o.order_no FROM armoire_order as o WHERE ( date_sub(curdate(), INTERVAL 6 MONTH) <= date(`create_time`) and date_sub(curdate(), INTERVAL 3 MONTH) > date(`create_time`) ) ORDER BY order_no  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item` [ RunTime:0.0071s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=4 ) ORDER BY item_no  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: secondLvl C:\wamp\www\armoire\Application\Home\Controller\OrderItemController.class.php 第 26 行.
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=2 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=10 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=9 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=7 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=6 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=11 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=12 ) ORDER BY item_no  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044150s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-02-24T20:02:33+08:00 ] ::1 /armoire/Home/OrderItem/viewOrderItem/order_uid/2/item_uid/5/fromTask/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+SQL: SHOW COLUMNS FROM `armoire_order` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `armoire_order` WHERE ( uid=2 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item` [ RunTime:0.0028s ]
+SQL: SELECT oi.*,o.order_no FROM armoire_order_item as oi INNER JOIN armoire_order as o on o.uid=oi.order_uid  WHERE ( order_uid=2 and oi.uid=5 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item_remark` [ RunTime:0.0040s ]
+SQL: SELECT oir.*,u.display_name as user_name FROM armoire_order_item_remark as oir INNER JOIN armoire_user as u on u.uid=oir.assignee  WHERE ( order_uid=2 and item_uid=5 )  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `armoire_user` [ RunTime:0.0031s ]
+SQL: SELECT `uid`,`display_name` FROM `armoire_user` ORDER BY display_name  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.160555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.160788s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-02-24T20:02:35+08:00 ] ::1 /armoire/Home/OrderItem/noOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021750s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-02-24T20:02:36+08:00 ] ::1 /armoire/Home/OrderItem/noOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-02-24T20:02:37+08:00 ] ::1 /armoire/Home/Order/addOrderIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-02-24T20:02:48+08:00 ] ::1 /armoire/Home/OrderItem/viewOrderItem/order_uid/2/item_uid/5/fromTask/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+SQL: SHOW COLUMNS FROM `armoire_order` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `armoire_order` WHERE ( uid=2 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item` [ RunTime:0.0049s ]
+SQL: SELECT oi.*,o.order_no FROM armoire_order_item as oi INNER JOIN armoire_order as o on o.uid=oi.order_uid  WHERE ( order_uid=2 and oi.uid=5 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item_remark` [ RunTime:0.0052s ]
+SQL: SELECT oir.*,u.display_name as user_name FROM armoire_order_item_remark as oir INNER JOIN armoire_user as u on u.uid=oir.assignee  WHERE ( order_uid=2 and item_uid=5 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `armoire_user` [ RunTime:0.0068s ]
+SQL: SELECT `uid`,`display_name` FROM `armoire_user` ORDER BY display_name  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.111774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2017-02-24T20:02:55+08:00 ] ::1 /armoire/Home/Order/addOrderIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000148s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000291s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006817s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006923s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-02-24T20:34:00+08:00 ] ::1 /armoire/Home/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012756s ]
+
+[ 2017-02-24T20:34:00+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.107929s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108035s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008705s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008813s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006518s ]
+
+[ 2017-02-24T20:38:54+08:00 ] ::1 /armoire/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+
+[ 2017-02-24T20:38:54+08:00 ] ::1 /armoire/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006442s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2017-02-24T20:38:56+08:00 ] ::1 /armoire/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: SHOW COLUMNS FROM `armoire_user` [ RunTime:0.0154s ]
+SQL: SELECT * FROM `armoire_user` WHERE ( user_name='admin' and user_password='e99a18c428cb38d5f260853678922e03' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `armoire_user` SET `uid`='1',`user_name`='admin',`user_password`='e99a18c428cb38d5f260853678922e03',`create_time`='2016-10-28 21:45:57',`last_logon_time`='2017-02-24 20:38:56',`user_group`='1',`display_name`='管理员',`update_time`='2016-10-29 22:38:36' WHERE ( user_name='admin' and user_password='e99a18c428cb38d5f260853678922e03' ) [ RunTime:0.0023s ]
+
+[ 2017-02-24T20:38:56+08:00 ] ::1 /armoire/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item_remark` [ RunTime:0.0122s ]
+SQL: SELECT oir.order_uid,oir.item_uid,o.order_no,oi.item_no FROM armoire_order_item_remark as oir INNER JOIN armoire_order_item as oi on oi.uid=oir.item_uid INNER JOIN armoire_order as o on o.uid=oir.order_uid  WHERE ( assignee=1 and oir.status='未完成' ) ORDER BY order_no, item_no  [ RunTime:0.0090s ]
+SQL: SELECT oir.order_uid,oir.item_uid,o.order_no,oi.item_no FROM armoire_order_item_remark as oir INNER JOIN armoire_order_item as oi on oi.uid=oir.item_uid INNER JOIN armoire_order as o on o.uid=oir.order_uid  WHERE ( assignee=1 and oir.status='已完成' and date_sub(curdate(), INTERVAL 60 DAY) <= date(o.create_time) ) ORDER BY order_no, item_no  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `armoire_order` [ RunTime:0.0084s ]
+SQL: SELECT o.uid,o.order_no FROM armoire_order as o WHERE ( date_sub(curdate(), INTERVAL 1 MONTH) <= date(`create_time`) ) ORDER BY order_no  [ RunTime:0.0003s ]
+SQL: SELECT o.uid,o.order_no FROM armoire_order as o WHERE ( date_sub(curdate(), INTERVAL 2 MONTH) <= date(`create_time`) and date_sub(curdate(), INTERVAL 1 MONTH) > date(`create_time`) ) ORDER BY order_no  [ RunTime:0.0002s ]
+SQL: SELECT o.uid,o.order_no FROM armoire_order as o WHERE ( date_sub(curdate(), INTERVAL 3 MONTH) <= date(`create_time`) and date_sub(curdate(), INTERVAL 2 MONTH) > date(`create_time`) ) ORDER BY order_no  [ RunTime:0.0002s ]
+SQL: SELECT o.uid,o.order_no FROM armoire_order as o WHERE ( date_sub(curdate(), INTERVAL 6 MONTH) <= date(`create_time`) and date_sub(curdate(), INTERVAL 3 MONTH) > date(`create_time`) ) ORDER BY order_no  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item` [ RunTime:0.0096s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=4 ) ORDER BY item_no  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: secondLvl C:\wamp\www\armoire\Application\Home\Controller\OrderItemController.class.php 第 26 行.
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=2 ) ORDER BY item_no  [ RunTime:0.0002s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=10 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=9 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=7 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=6 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=11 ) ORDER BY item_no  [ RunTime:0.0001s ]
+SQL: SELECT `item_no`,`uid` FROM `armoire_order_item` WHERE ( order_uid=12 ) ORDER BY item_no  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050100s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050220s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-02-24T20:38:56+08:00 ] ::1 /armoire/Home/OrderItem/viewOrderItem/order_uid/2/item_uid/5/fromTask/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `armoire_order` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `armoire_order` WHERE ( uid=2 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item` [ RunTime:0.0054s ]
+SQL: SELECT oi.*,o.order_no FROM armoire_order_item as oi INNER JOIN armoire_order as o on o.uid=oi.order_uid  WHERE ( order_uid=2 and oi.uid=5 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `armoire_order_item_remark` [ RunTime:0.0033s ]
+SQL: SELECT oir.*,u.display_name as user_name FROM armoire_order_item_remark as oir INNER JOIN armoire_user as u on u.uid=oir.assignee  WHERE ( order_uid=2 and item_uid=5 )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `armoire_user` [ RunTime:0.0034s ]
+SQL: SELECT `uid`,`display_name` FROM `armoire_user` ORDER BY display_name  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.169764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.169993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000893s ]
+
+[ 2017-02-24T20:39:00+08:00 ] ::1 /armoire/Home/OrderItem/noOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024050s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024175s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2017-02-24T20:39:01+08:00 ] ::1 /armoire/Home/Order/addOrderIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038843s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+

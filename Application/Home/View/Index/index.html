@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<link href="__PUBLIC__/images/band.jpg" rel="shortcut icon">
+<title>优艺家具管理系统</title>
+<link href="__PUBLIC__/bui/assets/css/dpl-min.css" rel="stylesheet" type="text/css" />
+<link href="__PUBLIC__/bui/assets/css/bui-min.css" rel="stylesheet" type="text/css" />
+<link href="__PUBLIC__/bui/assets/css/main-min.css" rel="stylesheet" type="text/css" />
+<script src="__PUBLIC__/bui/assets/js/jquery-1.8.1.min.js"></script>
+<script src="__PUBLIC__/bui/assets/js/bui-min.js"></script>
+<script src="__PUBLIC__/bui/assets/js/common/main-min.js"></script>
+<script src="__PUBLIC__/bui/assets/js/config-min.js"></script>
+</head>
+<body>
+	<div class="header">
+		<div class="dl-title">
+			<span class="lp-title-port">优艺家具管理系统</span>
+		</div>
+		<div class="dl-log">
+			{$data.time|default=time()|date='Y年m月d日',###} 欢迎您，<span class="dl-log-user">{$Think.session.user_auth.display_name}</span>
+			<a href="__ROOT__/Home/Login/logout" title="退出系统" class="dl-log-quit">[退出]</a>
+		</div>
+	</div>
+	<div class="content">
+		<div class="dl-main-nav">
+			<div class="dl-inform">
+				<div class="dl-inform-title">
+					<s class="dl-inform-icon dl-up"></s>
+				</div>
+			</div>
+			<ul id="J_Nav" class="nav-list ks-clear">
+				<li class="nav-item dl-selected">
+					<div class="nav-item-inner nav-sample">我的任务</div>
+				</li>				
+
+				<li class="nav-item">
+					<div class="nav-item-inner nav-order">近1月订单</div>
+				</li>
+				
+				<li class="nav-item">
+					<div class="nav-item-inner nav-order">近2月订单</div>
+				</li>
+				
+				<li class="nav-item">
+					<div class="nav-item-inner nav-order">近3月订单</div>
+				</li>
+				
+				<li class="nav-item">
+					<div class="nav-item-inner nav-order">近半年订单</div>
+				</li>
+								
+<!--				<li class="nav-item">-->
+<!--					<div class="nav-item-inner nav-register">订单查找</div>-->
+<!--				</li>-->
+				
+				<if condition="$Think.session.user_auth.user_group eq 1">
+					<li class="nav-item">
+						<div class="nav-item-inner nav-supplier">用户管理</div>
+					</li>
+				</if>
+				
+			</ul>
+		</div>
+
+		<ul id="J_NavContent" class="dl-tab-content"></ul>
+	</div>
+	
+	<script>
+		BUI.use('common/main', function() {
+			var config = [ {
+				id : 'treeMyTasks',
+				homePage : '{$treeMyTasksHomePage}',
+				menu : {$treeMyTasks}
+			},{
+				id : 'order_1_month',
+				homePage: '{$order_1_monthHomePage}',
+				menu : {$order_1_month}
+			},{
+				id : 'order_2_month',
+				homePage: '{$order_2_monthHomePage}',
+				menu : {$order_2_month}
+			},{
+				id : 'order_3_month',
+				homePage: '{$order_3_monthHomePage}',
+				menu : {$order_3_month}
+			},{
+				id : 'order_6_month',
+				homePage: '{$order_6_monthHomePage}',
+				menu : {$order_6_month}
+			},{
+				id : 'user_maintain',
+				homePage: 'userList',
+				menu : [ {
+					text : '用户管理',
+					items : [
+					  {
+						id : 'userList',
+						text : '用户列表',
+						href : '__ROOT__/Home/User/userList'
+					  },{
+						id : 'addUser',
+						text : '添加用户',
+						href : '__ROOT__/Home/User/addUserIn'
+					  }
+					]
+				}]
+			}];
+			new PageUtil.MainPage({
+				modulesConfig : config
+			});
+		});
+	</script>
+</body>
+</html>

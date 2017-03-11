@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<include file="./Application/Tpl/header-admin.html" />
+<meta name="description" content="衣柜专业定制系统" />
+<meta name="author" content="Vista JIN" />
+<meta name="keywords" CONTENT="衣柜专业定制系统" />
+<title>优艺家具管理系统</title>
+</head>
+
+<body>
+	<div class="container" style="margin-left: 20px">
+		<div class="page-header">
+			<h4>
+				<strong>添加用户</strong>
+			</h4>
+		</div>
+		<form action="__ROOT__/Home/User/addUser" method="post">
+			<div class="form-group">
+				<label for="display_name">真实姓名</label> 
+				<input type="text" class="form-control" style="width: 300px" name="display_name" id="display_name"
+					placeholder="请输入用户真实姓名">
+			</div>
+			<div class="form-group">
+				<label for="user_name">登录名称</label> 
+				<input type="text" class="form-control" style="width: 300px" name="user_name" id="user_name"
+					placeholder="请输入用户登录名称">
+			</div>			
+			<div class="form-group">
+				<label for="name">初始密码</label> 
+				<input type="password" class="form-control" style="width: 300px" name="user_password" id="user_password"
+					placeholder="请输入初始密码">
+			</div>
+			<div class="form-group">
+				<label for="user_group">用户组别</label> 
+				<select class="form-control" required style="width: 300px"
+					name="user_group" id="user_group">
+					<option value="">请选择</option>
+					<volist name="userGroupList" id="vo">
+					<option value="{$key}">{$vo}</option>
+					</volist>
+				</select>
+			</div>
+			<div align="center">
+				<button type="submit" class="btn btn-info">确定</button>
+			</div>
+		</form>
+		<br />
+		<br />
+	</div>
+</body>
+<script>
+$(document).ready(function() {
+	$("#user_password").val("");
+});
+</script>
+</html>
